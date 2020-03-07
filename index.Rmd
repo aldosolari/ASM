@@ -1,0 +1,40 @@
+---
+title: "Analisi Statistica Multivariata"
+description: |
+ CdL in Scienze Statistiche ed Economiche, Università Milano-Bicocca
+author:
+  - name: Nicola Lunardon
+    url: https://www.unimib.it/nicola-lunardon
+    affiliation: DEMS
+    affiliation_url: https://dems.unimib.it/it
+  - name: Aldo Solari
+    url: https://aldosolari.github.io/
+    affiliation: DEMS
+    affiliation_url: https://dems.unimib.it/it
+  - name: Bernardo Nipoti
+    url: http://www.bernardonipoti.com/
+    affiliation: DEMS
+    affiliation_url: https://dems.unimib.it/it
+date: "`r Sys.Date()`"
+output:
+  radix::radix_article:
+    toc: true
+    toc_depth: 1
+---
+
+Il Corso ha come scopo quello di fornire metodi statistici per lo studio di due o più fenomeni osservabili congiuntamente sulle unità statistiche di una popolazione.
+Le competenze acquisite nel Corso mettono gli studenti in grado di:
+
+* esplorare e sintetizzare i dati
+* modellizzare i dati tramite regressione
+* produrre ed interpretare l'output di analisi di dati reali effettuate tramite il linguaggio R
+
+L'insegnamento (15 CFU) è articolato nelle seguenti tre parti:
+
+* R per l'Analisi Statistica Multivariata (3 CFU, Prof. Lunardon) che fornisce un'introduzione al linguaggio R. 
+* [Analisi Esplorativa](https://aldosolari.github.io/AE/) (6 CFU, Prof. Solari) che presenta i metodi relativi all’esplorazione dei dati al fine di pervenire ad una loro "riduzione" che ne evidenzi e preservi le caratteristiche principali. 
+* Modelli Statistici (6 CFU, Prof. Nipoti) che tratta la specificazione, la stima e la verifica di modelli interpretativi dei dati. 
+
+
+
+
