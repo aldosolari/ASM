@@ -22,7 +22,7 @@ L'insegnamento di Analisi Statistica Multivariata (15 CFU) è articolato nelle s
 
 ## Propedeuticità.
 
-Questa attività formativa deve essere preceduta dal superamento degli esami di 
+Questa attività formativa deve essere preceduta dal superamento e registrazione degli esami di 
 
 * Algebra lineare;
 * Analisi Matematica I;
@@ -31,7 +31,7 @@ Questa attività formativa deve essere preceduta dal superamento degli esami di
 
 In altri termini, non è possibile
 
-1. iscriversi alla prove dei vari moduli (R, AE, MS)
+1. iscriversi alla prove delle varie parti (R, AE, MS)
 2. registrare l'esame complessivo (ASM)
 
 senza aver prima registrato le attività formative sopra elencate.
@@ -39,18 +39,20 @@ senza aver prima registrato le attività formative sopra elencate.
 
 ## Registrazione del voto.
 
-Il voto finale di ASM è determinato dalla media (ponderata con i rispettivi CFU) dei voti riportati nei tre moduli R, AE e MS (arrotondato all'intero più vicino).
+Il voto finale di ASM è determinato dalla media (ponderata con i rispettivi CFU) dei voti conseguiti nelle tre parti R, AE e MS (arrotondato all'intero più vicino).
 
-Per poter registrare il voto di ASM, è necessario:
+Il voto conseguito in ciascuna parte (R, AE e MS) **rimane valido per 4 anni**. 
+
+Per poter **registrare** il voto di ASM, è necessario:
 
 1. Aver conseguito un voto sufficiente ($\geq 18$) nelle prove di R, AE e MS;
 
 2. L'iscrizione all'appello di Analisi Statistica Multivariata. 
 
 
-Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 CFU) ai fini della verbalizzazione**. Di seguito il calendario degli appelli per la verbalizzazione. 
+Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 CFU) ai fini della verbalizzazione**. Nel seguito il calendario degli appelli di ASM per la verbalizzazione. 
 
-**Calendario appelli per la verbalizzazione di ASM**.
+## Calendario appelli per la verbalizzazione di ASM.
 
 || Sessione || Data || Orario ||
 |-|-|-|-|-|-|-|-|
@@ -63,3 +65,18 @@ Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 
 || Estiva || Settembre || tbd ||
 
 **Non è prevista** la verbalizzazione nella sessione Autunnale (Novembre). 
+
+## Salto d'appello. 
+
+In ottemperanza al Regolamento Didattico di Ateneo, modifica 5 giugno 2014 con DR 0019778,
+Articolo 14, Comma 11, per l'insegnamento Analisi Statistica Multivariata è previsto il "salto d'appello"  
+
+* per motivi didattici, agli studenti i quali nel **primo appello** della sessione **Invernale** ed **Estiva**, consegnano un compito scritto, chiedendone la correzione, che palesa lacune tali da essere considerate non colmabili nel tempo che intercorre tra l'appello in questione ed il successivo, ovvero una votazione inferiore a **9/30**. 
+
+* per motivi disciplinari, agli studenti che durante gli esami
+scritti vengano sorpresi a copiare, a scambiare informazioni coi compagni, a riversare sull'elaborato
+informazioni provenienti da qualsiasi supporto di cui non è permesso l'utilizzo.  Si ricorda che i comportamenti non corretti sono  soggetti a provvedimenti disciplinari come da Art. 35 e 36 del Regolamento Didattico di Ateneo.
+
+
+* per motivi organizzativi, agli studenti che si iscrivono ripetutamente (**3 volte consecutive**) agli appelli senza presentarsi, senza effettuare la disiscrizione o avvisare per mail con adeguata motivazione per l'assenza.
+
