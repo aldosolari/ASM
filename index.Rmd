@@ -59,7 +59,7 @@ Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 
 ||  || ||  ||  || ||
 || Invernale || 12 Febbraio 2021 || 14:30  ||
 || Invernale || 26 Febbraio 2021 || 14:30 ||
-|| Primaverile || Aprile || tbd ||
+|| Primaverile || 29 Aprile 2021 || 10:00 ||
 || Estiva || Giugno || tbd ||
 || Estiva || Luglio || tbd ||
 || Estiva || Settembre || tbd ||
