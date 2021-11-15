@@ -7,7 +7,7 @@ output: markdowntemplates::minimal
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Corso di Laurea Triennale in Scienze Statistiche ed Economiche, Università degli Studi di Milano-Bicocca, A.A. 2020/21.
+Corso di Laurea Triennale in Scienze Statistiche ed Economiche, Università degli Studi di Milano-Bicocca.
 
 ## L'insegnamento.
 
@@ -57,12 +57,12 @@ Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 
 || Sessione || Data || Orario ||
 |-|-|-|-|-|-|-|-|
 ||  || ||  ||  || ||
-|| Invernale || 12 Febbraio 2021 || 14:30  ||
-|| Invernale || 26 Febbraio 2021 || 14:30 ||
-|| Primaverile || 29 Aprile 2021 || 10:00 ||
-|| Estiva ||  8 Luglio 2021 || 10:00 ||
-|| Estiva ||  23 Luglio 2021 ||  14:30 ||
-|| Estiva ||  24 Settembre 2021 || 10:00 ||
+|| Invernale || tbd || tbd  ||
+|| Invernale || tbd || tbd ||
+|| Primaverile || tbd || tbd ||
+|| Estiva ||  tbd || tbd ||
+|| Estiva ||  tbd ||  tbd ||
+|| Estiva ||  tbd || tbd ||
 
 **Non è prevista** la verbalizzazione nella sessione Autunnale (Novembre). 
 
