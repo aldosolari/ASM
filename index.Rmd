@@ -57,12 +57,12 @@ Quindi **per registrare l'esame è necessario iscriversi all'appello di ASM (15 
 || Sessione || Data || Orario ||
 |-|-|-|-|-|-|-|-|
 ||  || ||  ||  || ||
-|| Invernale || tbd || tbd  ||
-|| Invernale || tbd || tbd ||
-|| Primaverile || tbd || tbd ||
-|| Estiva ||  tbd || tbd ||
-|| Estiva ||  tbd ||  tbd ||
-|| Estiva ||  tbd || tbd ||
+|| Invernale || 7 Febbraio 2022 || 10:30  ||
+|| Invernale || 24 Febbraio 2022 || 10.30 ||
+|| Primaverile || - || - ||
+|| Estiva ||  - || - ||
+|| Estiva ||  - ||  - ||
+|| Estiva ||  - || - ||
 
 **Non è prevista** la verbalizzazione nella sessione Autunnale (Novembre). 
 
